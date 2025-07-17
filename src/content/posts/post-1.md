@@ -11,6 +11,9 @@ image: /images/posts/01.jpg
 categories:
   - art
 description: meta description
+seo:
+  meta_title: This is a test meta title
+  meta_description: This is a test meta description
 meta_title: ""
 ---
 
