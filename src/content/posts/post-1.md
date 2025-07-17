@@ -1,13 +1,17 @@
 ---
-title: "How to make toys from old Olarpaper"
-meta_title: ""
-description: "meta description"
-date: 2022-04-01T05:00:00Z
-image: "/images/posts/01.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
 draft: false
+authors:
+  - Mark Dinn
+title: This is a test message
+date: 2022-04-01T05:00:00.000Z
+tags:
+  - diy
+  - toy
+image: /images/posts/01.jpg
+categories:
+  - art
+description: meta description
+meta_title: ""
 ---
 
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
