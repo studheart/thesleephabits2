@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main  # or main if that's your default
+  branch: main
 
 media_folder: "public/uploads"
 public_folder: "/uploads"
@@ -15,3 +15,15 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+      # ✅ SEO Fields
+      - label: "SEO Settings"
+        name: "seo"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { label: "Meta Title", name: "meta_title", widget: "string", required: false }
+          - { label: "Meta Description", name: "meta_description", widget: "text", required: false }
+          - { label: "Canonical URL", name: "canonical_url", widget: "string", required: false }
+          - { label: "OG Image", name: "og_image", widget: "image", required: false }
+          - { label: "Twitter Card Image", name: "twitter_image", widget: "image", required: false }
