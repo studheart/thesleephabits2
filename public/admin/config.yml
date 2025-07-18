@@ -21,4 +21,5 @@ collections:
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Authors", name: "authors", widget: "list", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { name: "noindex", label: "No Index", widget: "boolean", default: false }
 
