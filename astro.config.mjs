@@ -17,15 +17,17 @@ async function getHighlighter() {
   return highlighter;
 }
 
-// https://astro.build/config
+// ✅ Add filter to sitemap integration
 export default defineConfig({
-  site: config.site.base_url ? config.site.base_url : "https://thesleephabits.com",
+  site: config.site.base_url ? config.site.base_url : "http://examplesite.com",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   vite: { plugins: [tailwindcss()] },
   integrations: [
     react(),
-    sitemap(),
+    sitemap({
+      filter: (page) => !page.data?.noindex, // ✅ Exclude noindex pages
+    }),
     AutoImport({
       imports: [
         "@/shortcodes/Button",
