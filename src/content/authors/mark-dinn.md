@@ -1,7 +1,7 @@
 ---
-title: Mark Dinn
+title: Tina
 meta_title: ""
-image: /images/authors/mark-dinn.jpg
+image: /images/authors/tina-dp.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
