@@ -1,5 +1,5 @@
 ---
-title: "I’m Tina Bloom, a Sleep Consultant based in London"
+title: "I’m Tina, a Sleep Consultant based in London"
 meta_title: "About | The Sleep Habits"
 image: "/images/author.png"
 draft: false
@@ -17,7 +17,7 @@ what_i_do:
     description: "From simple tips to comprehensive guides, I create content designed to educate and empower people to take control of their sleep quality."
 ---
 
-I’m Tina Bloom, a **sleep consultant passionate about improving lives through better sleep**. For over a decade, I’ve been dedicated to helping people build healthier sleep habits, enhance their nighttime routines, and optimize daily rhythms for peak performance and wellness.
+I’m Tina, a **sleep consultant passionate about improving lives through better sleep**. For over a decade, I’ve been dedicated to helping people build healthier sleep habits, enhance their nighttime routines, and optimize daily rhythms for peak performance and wellness.
 
 At **The Sleep Habits**, my mission is simple: make quality sleep accessible to everyone through clear, practical advice backed by science.
 
