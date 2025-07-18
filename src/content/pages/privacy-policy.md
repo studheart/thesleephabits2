@@ -1,30 +1,65 @@
 ---
 title: "Privacy"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Privacy Policy | The Sleep Habits"
+description: "Read the Privacy Policy for The Sleep Habits. Learn how we collect, use, and protect your data, including information about cookies, Google AdSense, and your privacy rights."
 draft: false
 ---
 
 #### Responsibility of Contributors
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+At **The Sleep Habits**, we strive to provide accurate, valuable, and safe content related to sleep hygiene and optimization. Contributors are responsible for ensuring that their content complies with our editorial guidelines and does not infringe on the rights of others or disclose confidential information.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+---
 
 #### Gathering of Personal Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+We collect **personal information** only when you voluntarily provide it, such as when you subscribe to our newsletter or contact us. This may include your name and email address.
 
-#### Protection of Personal- Information
+Additionally, we collect **non-personal information** automatically when you visit our website. This can include your IP address, browser type, device details, and browsing patterns. These details help us understand how our readers interact with our content and improve user experience.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+We may use cookies and similar technologies to enhance functionality, analyze traffic, and serve relevant content.
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+---
+
+#### Use of Cookies and Advertising (Google AdSense)
+
+Currently, we do **not** display ads on our site. However, in the future, we plan to implement **Google AdSense** to show relevant advertisements. When this happens:
+
+- Google and its partners may use cookies to display ads based on your prior visits to our site and other websites.
+- These cookies help deliver personalized advertising and measure ad performance.
+- You can opt out of personalized ads through [Google Ads Settings](https://www.google.com/settings/ads) and review details at [Google’s Privacy Policy](https://policies.google.com/technologies/ads).
+
+For additional choices, you may also opt out of interest-based advertising at [www.aboutads.info](http://www.aboutads.info) *(optional but recommended)*.
+
+You can disable cookies in your browser settings, though some site features may not function as intended without them.
+
+---
+
+#### Protection of Personal Information
+
+We adopt industry-standard security measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission or storage over the Internet is 100% secure, and we cannot guarantee absolute security.
+
+---
+
+#### Your Privacy Rights (GDPR & CCPA)
+
+If you are located in the EU/EEA/UK, you have the right to request access, correction, deletion, or restriction of your personal data. You can also withdraw consent for personalized ads at any time.
+
+California residents (CCPA) have the right to know what personal information we collect, request its deletion, and opt out of the sale of personal data (we do not sell personal information).
+
+To exercise any of these rights, please contact us using the details below.
+
+---
 
 #### Privacy Policy Changes
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+We may update this Privacy Policy periodically to reflect changes in technology, regulations, or our practices. The latest version will always be available on this page, and the “Effective Date” at the top will indicate the date of the most recent update.
+
+---
+
+#### Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+**Email:** thesleephabits@gmail.com  
+**Website:** [https://thesleephabits.com](https://thesleephabits.com)
