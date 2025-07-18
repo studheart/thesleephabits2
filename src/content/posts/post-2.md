@@ -1,13 +1,18 @@
 ---
+draft: false
 title: Why a balloon is a flexible bag
 meta_title: ""
-description: "meta description"
-date: 2022-04-02T05:00:00Z
-image: "/images/posts/02.jpg"
-categories: ["development"]
-authors: ["John Doe"]
-tags: ["diy", "toy"]
-draft: false
+description: meta description
+image: /images/posts/02.jpg
+date: 2022-04-02T05:00:00.000Z
+categories:
+  - development
+tags:
+  - diy
+  - toy
+authors:
+  - John Doe
+noindex: true
 ---
 
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
