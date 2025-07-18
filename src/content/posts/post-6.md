@@ -1,13 +1,18 @@
 ---
-title: "Become a morning person with the help of alarm clock"
-meta_title: ""
-description: "meta description"
-date: 2022-04-06T16:56:47+06:00
-image: "/images/posts/06.jpg"
 draft: false
-authors: ["Mark Dinn"]
-tags: ["Alarm", "Clock"]
-categories: ["LifeStyle"]
+title: Become a morning person with the help of alarm clock
+meta_title: ""
+description: meta description
+image: /images/posts/06.jpg
+date: 2022-04-06T16:56:47+06:00
+categories:
+  - LifeStyle
+tags:
+  - Alarm
+  - Clock
+authors:
+  - Mark Dinn
+noindex: true
 ---
 
 Almost every day for the past nine or so months has felt like March 13, and that can sometimes make it difficult to want to wake up for the day ahead of you.
