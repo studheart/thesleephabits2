@@ -1,13 +1,18 @@
 ---
+draft: false
 title: What you need to know about Photography
 meta_title: ""
-description: "meta description"
+description: meta description
+image: /images/posts/03.jpg
 date: 2022-04-03T06:00:00+00:00
-image: "/images/posts/03.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
-draft: false
+categories:
+  - art
+tags:
+  - diy
+  - toy
+authors:
+  - Mark Dinn
+noindex: true
 ---
 
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
