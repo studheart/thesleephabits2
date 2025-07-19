@@ -104,6 +104,7 @@ It’s a practice, not a race - let it build.
 
 References:
 
-[https://pmc.ncbi.nlm.nih.gov/articles/PMC10710992/
-](https://pmc.ncbi.nlm.nih.gov/articles/PMC10710992/)[https://www.tims.nhs.uk/wp-content/uploads/2023/03/Night-shift-and-sleep-tips.pdf
+<https://pmc.ncbi.nlm.nih.gov/articles/PMC10710992/>[
+](https://pmc.ncbi.nlm.nih.gov/articles/PMC10710992/)<https://www.tims.nhs.uk/wp-content/uploads/2023/03/Night-shift-and-sleep-tips.pdf>\
+[
 ](https://www.tims.nhs.uk/wp-content/uploads/2023/03/Night-shift-and-sleep-tips.pdf)<https://pmc.ncbi.nlm.nih.gov/articles/PMC10323438/>
