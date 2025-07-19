@@ -15,7 +15,7 @@ Sleep isn’t luck; it’s a skill that improves with steady repetition.
 
 ## **Why Sleep Hygiene Matters**
 
-Misaligned sleep isn’t just “feeling tired” - it slowly chips away at focus, decision‑making, mood, appetite regulation, and long‑term health. In the US, roughly 15 million people work evening, night, or rotating shifts: nurses, factory teams, truck drivers, hospitality staff, first responders, warehouse crews.
+Misaligned sleep isn’t just “feeling tired” - it slowly chips away at focus, decision‑making, mood, appetite regulation, and long‑term health. In the US, about 15 million people work nights or rotating shifts, including nurses, truck drivers, factory workers, first responders, and hospitality staff.
 
 Long commutes, back‑to‑back shifts, and an “always on” culture make real rest easy to push aside. You’ll never make daytime sleep feel perfectly natural, but you can blunt that out‑of‑sync, mini jet‑lag feeling and build a steadier energy base.
 
