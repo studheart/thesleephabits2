@@ -5,6 +5,8 @@ description: Discover practical sleep hygiene tips for night shift workers to
   improve rest, boost energy, and stay healthy despite working irregular hours.
 image: /uploads/sleep-hygiene-for-night-shift-workers.jpg
 date: 2025-07-19T08:27:00.000+05:30
+authors:
+  - Tina
 noindex: false
 ---
 Working night shifts turns your natural rhythm upside down. Instead of trying to power through with sheer willpower, it helps to guide your body with a few smart habits - like controlling light, timing your naps, adjusting the room temperature, and eating at the right times. 
