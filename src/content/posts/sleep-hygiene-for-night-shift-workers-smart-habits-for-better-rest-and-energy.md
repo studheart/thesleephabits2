@@ -62,6 +62,8 @@ So, what can you do to build healthier sleep habits as a night shift worker? Her
 
 ## **Be Mindful of Meals**
 
+![healthy meal before sleep](/uploads/sleep-healthy-meal.jpg)
+
 * **Stomach staging:** Light, balanced meal before the shift (protein + slow carbs + veg), modest snack mid‑shift, *not* a giant meal in the final hour (reduces reflux and postprandial slump).
 * **Consistent “metabolic anchors”:** Keep first calorie intake at roughly the same clock time after waking to reinforce routine.
 * **Slow energy snacks:** Examples: Greek yogurt + berries, apple + nut butter, hummus + wholegrain crackers, boiled eggs, edamame. Avoid ultra‑sweet pastries that spike then crash.
@@ -100,7 +102,7 @@ So, what can you do to build healthier sleep habits as a night shift worker? Her
 * **Door signal:** Simple sign or color indicator (e.g., red tag = sleep) for family/flatmates.
 * **Notification hygiene:** Dedicated “sleep profile”: emergency contacts bypass; all other alerts silent.
 
-If persistent insomnia, overwhelming sleepiness, microsleeps while commuting, mood changes, or blood pressure and glucose issues show up despite your best efforts, don’t ignore them - consult a professional. A sleep specialist can guide you through tailored options like light therapy, melatonin timing, or screening for sleep disorders (like sleep apnea) that might be silently making things worse.
+If you’re still dealing with stubborn insomnia, extreme tiredness, or even nodding off while commuting - despite your best efforts - it’s a good idea to talk to a professional. Sometimes, a simple check for underlying issues like sleep apnea, or guidance on light therapy and melatonin timing, can make all the difference.
 
 Working nights is tough - your schedule is different from the rest of the world, and it’s easy to feel like no one understands how draining it can be. But you’re not alone. Millions of night shift workers face the same struggle of balancing work, health, and personal life. The goal isn’t to achieve perfect sleep but to build habits that work for you and support your energy and focus.
 
