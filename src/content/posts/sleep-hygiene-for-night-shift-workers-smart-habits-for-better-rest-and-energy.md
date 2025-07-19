@@ -27,6 +27,8 @@ So, what can you do to build healthier sleep habits as a night shift worker? Her
 
 ## **Create a Sleep-Friendly Environment**
 
+![sleep friendly environment](/uploads/sleep-environment.jpg)
+
 * **Blackout strategy:** Seal light leaks (door frame, router LEDs, blinking chargers). Painter’s tape + thin felt or blackout tape works.
 * **“Sleep scent” conditioning:** Pick a single, mild scent (lavender, cedar, chamomile pillow spray). Use it ONLY before sleep. After 1–2 weeks your brain starts pairing that scent with winding down.
 * **Sound zoning:** Record 30 seconds of the usual daytime street noise; play with different white/pink/brown noise apps until one masks *that* specific frequency band best. Brown noise often hides low traffic rumbles; pink can soften voices.
@@ -35,6 +37,8 @@ So, what can you do to build healthier sleep habits as a night shift worker? Her
 * **Emergency darkness kit:** Eye mask + silicone earplugs + travel white‑noise app—always packed for unexpected schedule changes or sleeping away from home.
 
 ## **Stick to a Consistent Sleep Schedule**
+
+![sleep schedule](/uploads/sleep-schedule.jpg)
 
 * **Anchor sleep:** Protect one fixed 4–5 hour “anchor” block (e.g., 9:00–14:00) even if shifts vary. Add flexible naps around it. This stabilizes your internal clock.
 * **Split‑sleep template:** Core sleep after shift + 20–30 min “top‑up” nap 2–3 hours before next shift (not closer) to restore alertness without stealing deep sleep pressure.
