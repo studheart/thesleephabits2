@@ -36,7 +36,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { name: "noindex", label: "No Index", widget: "boolean", default: false }
 
-- name: "content-planner"
+  - name: "content-planner"
     label: "Content Planner"
     file: "content/planner/planner.json"  # One file only
     format: "json"
