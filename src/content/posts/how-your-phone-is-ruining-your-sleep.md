@@ -52,7 +52,7 @@ In one study of over 500 adults in India, people who used their phones more ofte
 * Place a bookmark routine between phone use and sleep: brush teeth, change into pajamas, stretch, lights out.
 * Resist the urge to *wait to feel tired*. Instead, get in bed at a set time and let your body adjust.
 
-## **4. It’s Not Just About Nighttime-Daytime Use Matters Too**
+## **4. Daytime Use Matters Too**
 
 It might not seem like a big deal, but all that screen time during the day adds up. The constant pings, scrolling, and bouncing between apps keep your brain in high gear. So when it’s finally time to wind down, your mind doesn’t get the memo-it’s still wired and wide awake.
 
@@ -64,7 +64,7 @@ Ever taken a break from social media and suddenly slept like a rock? That’s no
 * Replace idle scrolling with short outdoor breaks or quick breathing resets.
 * Protect a 90-minute “digital quiet” window before bed.
 
-## **5. For Some People, Phones Help-But It Depends How You Use Them**
+## **5. For Some People, Phones Help**
 
 Let’s be real - using your phone before bed doesn’t automatically wreck your sleep. It really comes down to how you're using it. A guided meditation, some soft music, or a chill audiobook with a sleep timer can actually help you unwind. It’s the aimless scrolling and app-hopping that tends to mess things up.
 
