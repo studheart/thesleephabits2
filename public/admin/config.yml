@@ -38,9 +38,12 @@ collections:
 
   - name: "content-planner"
     label: "Content Planner"
-    file: "content/planner/planner.json"  # One file only
-    format: "json"
-    editor:
-      preview: false
-    fields:
-      - { name: "notes", label: "Notes", widget: "text", hint: "Use this as your planning scratchpad." }
+    files:
+      - name: "planner"
+        label: "Content Notes"
+        file: "content/planner/planner.json"
+        format: "json"
+        editor:
+          preview: false
+        fields:
+          - { name: "notes", label: "Notes", widget: "text", hint: "Use this as your planning scratchpad." }
