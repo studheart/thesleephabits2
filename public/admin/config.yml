@@ -45,8 +45,8 @@ collections:
     identifier_field: "topic"
     editor:
       preview: false
-    summary: "{{topic}} → {{status}} → {{keyword}}"
+    summary: "{{topic}} → {{status}} → {{searchvolume}}"
     fields:
       - { name: "topic", label: "Topic / Idea", widget: "string" }
-      - { name: "keyword", label: "Target Keyword", widget: "string" }
+      - { name: "searchvolume", label: "Search Volume", widget: "string" }
       - { name: "status", label: "Status", widget: "select", options: ["Idea", "Draft", "In Progress", "Published"] }
