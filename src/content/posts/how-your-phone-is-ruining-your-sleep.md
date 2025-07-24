@@ -76,7 +76,7 @@ If you’re using your phone with intention-like playing a guided meditation and
 * Keep brightness very low and avoid bouncing between apps.
 * Set a timer so it stops playing after 30–45 minutes.
 
-## **6. Phones Are Designed to Hook You**
+## **6. Phones are Designed to Hook You**
 
 Let’s be honest-it’s not just about willpower. Your phone is built to keep you hooked. Those endless scrolls, surprise notifications, and perfectly timed algorithm hits? They’re designed to keep you there “just five more minutes.”
 
