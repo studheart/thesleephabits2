@@ -36,17 +36,11 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { name: "noindex", label: "No Index", widget: "boolean", default: false }
 
-  - name: "content-planner"
+- name: "content-planner"
     label: "Content Planner"
-    folder: "content/planner"
-    create: true
-    slug: "{{slug}}"
+    file: "content/planner/planner.json"  # One file only
     format: "json"
-    identifier_field: "topic"
     editor:
       preview: false
-    summary: "{{topic}} → {{status}} → {{searchvolume}}"
     fields:
-      - { name: "topic", label: "Topic / Idea", widget: "string" }
-      - { name: "searchvolume", label: "Search Volume", widget: "string" }
-      - { name: "status", label: "Status", widget: "select", options: ["Idea", "Draft", "In Progress", "Published"] }
+      - { name: "notes", label: "Notes", widget: "text", hint: "Use this as your planning scratchpad." }
