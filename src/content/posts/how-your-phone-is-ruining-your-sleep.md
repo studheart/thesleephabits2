@@ -1,6 +1,6 @@
 ---
-title: How Your Phone Is Ruining Your Sleep
-meta_title: How Your Phone Is Ruining Your Sleep
+title: How Your Phone is Ruining Your Sleep
+meta_title: How Your Phone is Ruining Your Sleep
 description: How your phone can quietly mess with your sleep-and simple,
   realistic habits to help you wind down, rest better, and still stay connected.
 image: /uploads/how-phone-ruining-sleep.jpg
