@@ -36,18 +36,19 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { name: "noindex", label: "No Index", widget: "boolean", default: false }
 
-  - name: "content-planner"
-    label: "🗂️ Content Planner"
-    folder: "content/planner"
-    create: true
-    slug: "{{slug}}"
-    format: "json"
-    identifier_field: "topic"
-    editor:
-      preview: false
-    fields:
-      - { name: "topic", label: "Topic / Idea", widget: "string" }
-      - { name: "keyword", label: "Target Keyword", widget: "string" }
-      - { name: "status", label: "Status", widget: "select", options: ["Idea", "Draft", "In Progress", "Published"] }
-      - { name: "date", label: "Target Date", widget: "datetime", format: "YYYY-MM-DD" }
+- name: "content-planner"
+  label: "Content Planner"
+  folder: "content/planner"
+  create: true
+  slug: "{{slug}}"
+  format: "json"
+  identifier_field: "topic"
+  editor:
+    preview: false
+  summary: "{{topic}} → {{status}} → {{keyword}}"
+  fields:
+    - { name: "topic", label: "Topic / Idea", widget: "string" }
+    - { name: "keyword", label: "Target Keyword", widget: "string" }
+    - { name: "status", label: "Status", widget: "select", options: ["Idea", "Draft", "In Progress", "Published"] }
+
 
