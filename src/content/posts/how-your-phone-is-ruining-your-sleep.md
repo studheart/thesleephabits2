@@ -8,7 +8,7 @@ date: 2025-07-24T07:45:00.000+05:30
 categories: []
 authors:
   - Tina
-noindex: true
+noindex: false
 ---
 We all know the drill: it’s late, you’re in bed, phone in hand, telling yourself “just five more minutes.” Before you know it, it’s 1:23 a.m., and you’re still scrolling, wide awake. If this sounds familiar, you’re not alone - and your sleep might be paying the price.
 
