@@ -17,11 +17,16 @@ Alcohol doesn’t gently usher in rest. It forces a shutdown. So while you crash
 
 Studies show alcohol significantly reduces REM sleep - the deep phase where your brain regulates mood, clears cluttered thoughts, and helps store memories.\
 \
-Your brain misses essential stages, especially REM sleep - the phase that clears your mind, manages emotions, and solidifies memories. Waking up groggy after “sleeping well”? That could be because alcohol skipped over the healing parts of rest.
+Your brain misses essential stages, especially REM sleep - the phase that clears your mind, manages emotions, and solidifies memories. Waking up groggy after “sleeping well”? That could be because alcohol skipped over the healing parts of rest.\
+
+Even small amounts of alcohol before bed have been shown to reduce the REM sleep. In a controlled sleep lab study, volunteers who had a drink just one hour before bed experienced notably diminished REM - despite spending the same number of hours asleep.
+
 
 ## **What Happens During the Night**
 
-At first, alcohol may lead into deeper sleep, giving you a false sense of rest. But as your body metabolizes it, sleep becomes lighter. Still, REM sleep doesn’t bounce back - it stays suppressed. That’s why fragmented sleep later in the night often leaves you feeling like you didn’t sleep at all - yet you clocked hours under the sheet.
+At first, alcohol may lead into deeper sleep, giving you a false sense of rest. But as your body metabolizes it, sleep becomes lighter. Still, REM sleep doesn’t bounce back - it stays suppressed. That’s why fragmented sleep later in the night often leaves you feeling like you didn’t sleep at all - yet you clocked hours under the sheet.\
+
+Interestingly, some people who quit nightly drinking experience intense REM rebound - vivid dreams or even nightmares - as their brain tries to catch up on the REM it’s been missing.
 
 ## **Why You Often Wake Up Around 3 a.m.**
 
@@ -39,7 +44,9 @@ If you snore, deal with RLS or insomnia, or suspect sleep apnea - that drink doe
 
 ## **The Sugar-Coated Lie**
 
-You might feel “okay” in the morning after drinking - and chalk that up to a decent night. But if energy dips, you’re irritable, forgetful, or emotionally flat, that’s a red flag. You might have slept hours, but woke up absent of quality rest.
+People often mistake feeling sleepy after drinking for having slept well. 
+
+But wearable tech and sleep tracking (like Oura or Garmin) are revealing the truth: even casual or occasional drinking significantly lowers sleep quality. It also shows increased overnight stress and reduced heart rate variability. These are obviously signs of the body working overtime to recover.
 
 ## **A Better Nightly Reset**
 
@@ -60,4 +67,6 @@ https://www.sleepfoundation.org/nutrition/alcohol-and-sleep\
 [https://www.nature.com/articles/s41598-020-65166-y
 ](https://www.nature.com/articles/s41598-020-65166-y)https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5840512\
 
-https://www.psychiatryonline.org/doi/10.1176/appi.neuropsych.16110307
+https://www.psychiatryonline.org/doi/10.1176/appi.neuropsych.16110307\
+\
+https://medicalxpress.com/news/2024-01-bed-reductions-rem.html
