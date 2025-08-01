@@ -71,6 +71,8 @@ But wearable tech and sleep tracking (like Oura or Garmin) are revealing the tru
 
 ## **A Better Nightly Reset**
 
+![](/uploads/better-sleep.jpg)
+
 You don’t need to stop drinking forever. But here’s a gentler option:
 
 * Choose to stop your drink at least 3–4 hours before bed.
