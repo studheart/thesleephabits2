@@ -41,7 +41,7 @@ So what do you actually do?
 ![sleep schedule](/uploads/sleep-schedule.jpg)
 
 * **Anchor sleep:** Defend one *anchor block* of 4–5 hours (maybe 9:30–1:30 or 10–2). Around that, plug in flexible naps; the anchor gives your body a steady target.
-* **Split‑sleep template:** If one solid 7–9 hours never happens, use a split: core sleep after the shift plus a 20–30 minute “top‑up” nap 2–3 hours before the next shift (not closer).
+* **Split‑sleep template:** If one solid 7–9 hours never happens, use a split: core sleep after the shift plus a 20–30 minute “top‑up” nap 2–3 hours before the next shift (not closer). It’s not the same as a full night’s rest, but done right, it can still feel surprisingly restorative. [Here’s what that might look like if you’re trying to make 4 hours feel like 8](https://thesleephabits.com/how-to-get-8-hours-of-sleep-in-4-hours/).
 * **“Slide, don’t flip”:** On days off, *slide* your schedule by an hour or two—don’t flip it. Full flips feel like self‑inflicted jet lag when nights restart.
 * **Wind‑down alarm:** Set a wind‑down alarm (the cue to *start* pre‑sleep routine) rather than just a “bedtime” alarm.
 
@@ -51,6 +51,8 @@ So what do you actually do?
 * **Commute shield:** Commute home with sunglasses (even on overcast mornings); filtered blue light still shouts “wake up.” A cap brim helps.
 * **Reverse sunrise:** “Reverse sunrise” at home: minimal, warm light while you prep for bed for contrast with the earlier brightness.
 * **Phone hygiene:**  Phone goes on grayscale + night filter automatically during wind‑down-less tempting to keep scrolling.
+
+Here’s how your [phone might be ruining your sleep](https://thesleephabits.com/how-your-phone-is-ruining-your-sleep/) without you realizing it.
 
 ## **Smart Naps and Caffeine**
 
