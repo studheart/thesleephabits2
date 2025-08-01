@@ -13,7 +13,11 @@ You’ve had a long day. That glass of wine or whiskey after dinner feels like r
 
 ## **The Sedation Illusion**
 
-Alcohol doesn’t gently usher in rest. It forces a shutdown. So while you crash faster - it’s not true sleep, it’s sedation. Your brain misses essential stages, especially REM sleep - the phase that clears your mind, manages emotions, and solidifies memories. Waking up groggy after “sleeping well”? That could be because alcohol skipped over the healing parts of rest.
+Alcohol doesn’t gently usher in rest. It forces a shutdown. So while you crash faster - it’s not true sleep, it’s sedation.\
+
+Studies show alcohol significantly reduces REM sleep - the deep phase where your brain regulates mood, clears cluttered thoughts, and helps store memories.\
+\
+Your brain misses essential stages, especially REM sleep - the phase that clears your mind, manages emotions, and solidifies memories. Waking up groggy after “sleeping well”? That could be because alcohol skipped over the healing parts of rest.
 
 ## **What Happens During the Night**
 
@@ -31,7 +35,7 @@ If alcohol becomes your bedtime habit, your body adapts - fast. What used to kno
 
 ## **What If You Have a Sleep Issue Already**
 
-If you snore, deal with RLS or insomnia, or suspect sleep apnea - that drink doesn’t just fail to help. It can exacerbate the issue. Alcohol relaxes muscles, makes snoring louder, breathing more disrupted, and sleep more shattered.
+If you snore, deal with RLS or insomnia, or suspect sleep apnea - that drink doesn’t just fail to help. It can exacerbate the issue. Alcohol relaxes muscles, makes snoring louder, breathing more disrupted, and sleep more shattered. One study in *Scientific Reports* (2020) found that alcohol led to more oxygen desaturation events in people with sleep apnea, even at moderate doses.
 
 ## **The Sugar-Coated Lie**
 
