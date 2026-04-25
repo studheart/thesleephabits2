@@ -16,3 +16,12 @@ Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
   to = "https://www.globalairportparking.com/fll/1767654/best-western-plus-fort-lauderdale-fll-airport-cruise-port-parking-special-deal"
   status = 301
   force = true
+
+
+  [[redirects]]
+  from = "/parking2"
+  to = "  https://www.globalairportparking.com/blog/on-airport-off-airport-parking-cost-comparison/"
+  status = 301
+  force = true
+
+
