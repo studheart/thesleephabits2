@@ -12,7 +12,7 @@ Referrer-Policy = "same-origin"
 Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
 
 [[redirects]]
-  from = "/parking"
-  to = "https://www.globalairportparking.com/"
+  from = "/parking2"
+  to = "https://www.globalairportparking.com/fll/1767654/best-western-plus-fort-lauderdale-fll-airport-cruise-port-parking-special-deal"
   status = 301
   force = true
